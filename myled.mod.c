@@ -1,3 +1,7 @@
+//SPDX-License-Identifier: GPL-3.0
+//Copyright (C) 2020 RyuichiUeda&RyoIshiduka
+
+
 #include <linux/build-salt.h>
 #include <linux/module.h>
 #include <linux/vermagic.h>
